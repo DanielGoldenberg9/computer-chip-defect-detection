@@ -5,15 +5,15 @@ This repository contains a project focused on defect detection in computer chips
 
 ## Features
 - **High Accuracy**: Utilizes classical computer vision techniques to achieve high accuracy in defect detection.
-- **Robust Image Processing**: Implements a variety of image processing methods such as filtering, morphological operations, SIFT detection,Phase-correlation and Kmeans.
+- **Robust Image Processing**: Implements a variety of image processing methods such as filtering, morphological operations, SIFT detection, Phase-correlation, and Kmeans.
 - **Interactive Visualization**: Provides tools for visualizing defects on chips.
-- **segmantation map**: retruns a image of the defect with sub-pixel accuracy.
+- **segmentation map**: returns an image of the defect with sub-pixel accuracy.
 
 ## Technologies
-**OpenCV**: For image processing and classical computer vision methods.
-**Scikit-learn**: For statistical analysis and metrics calculation.
-**Matplotlib**: For data visualization.
-**Numpy**: For data manipulation and processing.
+- **OpenCV**: For image processing and classical computer vision methods.
+- **Scikit-learn**: For statistical analysis and metrics calculation.
+- **Matplotlib**: For data visualization.
+- **Numpy**: For data manipulation and processing.
 
 
 ## Image Demo:
